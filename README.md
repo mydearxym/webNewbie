@@ -29,7 +29,7 @@
 
 > [codeSchool基础](http://campus.codeschool.com/courses/shaping-up-with-angular-js/level/5/section/1/video/1)
 
-> [egghead.io教程](https://egghead.io/technologies/angularjs?order=desc&page=1)
+> [egghead.io教程](https://egghead.io/technologies/angularjs?order=desc&page=1) 免费和付费教程我都有，网速慢找我要
 
 ##### codeSchool进阶视频： 找我要
 
